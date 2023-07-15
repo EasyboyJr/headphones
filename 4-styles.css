@@ -126,6 +126,10 @@ p {
     width: 200px;
 }
 
+.sub-icon img {
+    align-self: center;
+}
+
 h3 {
     text-align: center;
 }
@@ -160,6 +164,7 @@ h3 {
     flex-direction: column;
     gap: 40px;
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .pentagon-container {
